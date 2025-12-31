@@ -1,6 +1,5 @@
-<php>
+<?php
 
-echo "uma linha de Codigo"
+echo:"uma linha de Codigo";
 
-
-</php>
+?>
